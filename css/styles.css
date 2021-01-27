@@ -1,0 +1,157 @@
+
+body{
+  background-color: #a3d2ca;
+  margin: 0;
+
+}
+.Container7{
+  position: relative;
+  text-align: center;
+  width: 1500px;
+  top: 50px;
+
+
+}
+.Container6{
+
+  position: relative;
+  text-align: center;
+  top: 60px;
+
+}
+
+
+.Container1{
+  position: relative;
+  text-align: center;
+}
+.Container2{
+  position: relative;
+  text-align: center;
+
+}
+.Container3{
+  position: relative;
+  text-align: center;
+
+}
+.Container4{
+  position: relative;
+  text-align: center;
+  top: 100px;
+
+}
+.Container5{
+  position: relative;
+  text-align:right;
+  bottom: 10px;
+
+}
+
+
+.top-cloud{
+  position: relative;
+  left:35%;
+  width: 15%;
+  top: 3%;
+}
+
+.plane{
+  position: relative;
+  top: 300px;
+  left: 15%
+}
+
+.middle-cloud{
+  position: relative;
+  width: 20%;
+  right: 28%;
+  top: 50px;
+}
+
+
+
+
+.bird1{
+  position: relative;
+  width: 5%;
+  top: 250px;
+  right: 20%;
+}
+.bird2{
+  position: relative;
+  width: 5%;
+  top: 200px;
+  right: 15%;
+}
+.bird3{
+  position: relative;
+  width: 5%;
+  top: 280px;
+  right: 23%;
+}
+
+
+.contact{
+  position: relative;
+  right: 4%;
+
+}
+.facebook{
+  position: relative;
+  width: 3%;
+  right: 4%;
+}
+.instagram{
+  position: relative;
+  width: 3%;
+  right: 3%;
+}
+
+.mail{
+  position: relative;
+  width: 3%;
+  right: 2%;
+}
+
+.mountain{
+  position: relative;
+  width: 45%;
+
+}
+
+.hobbies{
+  position: relative;
+  width: 60px;
+  right: 40px;
+}
+
+.books{
+  position: relative;
+  width: 60px;
+  right: 20px;
+}
+
+.skills{
+  position: relative;
+  width: 60px;
+  left: 6.5px;
+}
+.cv{
+  position: relative;
+  width: 60px;
+  left: 25px;
+}
+
+.bookContainer{
+  position: relative;
+  text-align: center;
+  top: 130px;
+}
+
+.textBookContainer{
+  position: relative;
+  left: 545px;
+  top: 150px;
+  
+}
