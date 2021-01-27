@@ -51,8 +51,9 @@ body{
 
 .plane{
   position: relative;
-  top: 300px;
-  left: 15%
+  left:5%;
+
+
 }
 
 .middle-cloud{
@@ -132,6 +133,10 @@ body{
 }
 
 .skillsContainer{
+  position: relative;
+  text-align: center;
+}
+.hobbiesContainer{
   position: relative;
   text-align: center;
 }
