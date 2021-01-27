@@ -4,14 +4,7 @@ body{
   margin: 0;
 
 }
-.Container7{
-  position: relative;
-  text-align: center;
-  width: 1500px;
-  top: 50px;
 
-
-}
 .Container6{
 
   position: relative;
@@ -137,21 +130,28 @@ body{
   width: 60px;
   left: 6.5px;
 }
+
+.skillsContainer{
+  position: relative;
+  text-align: center;
+}
+
 .cv{
   position: relative;
   width: 60px;
-  left: 25px;
+  left: 18px;
+
 }
+
 
 .bookContainer{
   position: relative;
   text-align: center;
-  top: 130px;
+  top: 50%;
 }
 
 .textBookContainer{
   position: relative;
-  left: 545px;
-  top: 150px;
-  
+  text-align: center;
+
 }
